@@ -1,4 +1,4 @@
-										/*Introduction to ToDo List Application*/
+				/*Introduction to ToDo List Application*/
 
 *About Author:-
 
@@ -38,3 +38,5 @@
 -> To erase all the tasks, click on "CLEAR" button.
 -> To search a specific task, type in "Search" box and you can find it by title, task or date.
 -> To get all tasks according to their status, click on "Menu" button and choose a category.   
+
+		/* Thank You So Much */
