@@ -1,8 +1,8 @@
-								/*Introduction to Reg./Login Form Application*/
+				 /*Introduction to Reg./Login Form Application*/
 
 *About Author:-
 
-#Developer		-->   MLVTEC Team, Bhilwara
+#Developer	-->   MLVTEC Team, Bhilwara
 #Developed at 	-->   Ready Bytes Software Labs Pvt. Ltd. Bhilwara
 #Under guidance	-->   Shyam Sunder Boss.
 #Date Created	-->   Fri, May 18 2018.
