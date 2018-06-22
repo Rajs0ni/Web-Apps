@@ -12,6 +12,7 @@
 1. Basic knowledge of HTML, CSS, JS, JSON, Ajax & PHP.
 2. Text editor like Notepad, Sublime Text etc. 
 3. LAMP/WAMP installed system.
+4. Proper internet connectivity.
 
 *Project Description:-
 
