@@ -26,7 +26,7 @@ Date Created	-->   Fri, May 18 2018.
 	* about php database connection *  
 		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  HOSTNAME : "localhost"  
 		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  USERNAME : "root"  
-		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  PASSWORD : "root"
+		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  PASSWORD : "root"  
 		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  DATABASE : "formData"  
   
  ![PHP Database](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-5.png)   
