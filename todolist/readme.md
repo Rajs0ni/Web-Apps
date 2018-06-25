@@ -24,8 +24,9 @@ Date Created	-->   Wed,May 30 2018.
 
 -> Firstly, create a Database named "toDoList" in PHP database(as shown in screenshots).  
 	<--about php database connection-->  
+	
 		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/hrIcon.png)  HOSTNAME : "localhost"  
-		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/htIcon.png)  USERNAME : "root"  
+		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/hrIcon.png)  USERNAME : "root"  
 		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/hrIcon.png)  PASSWORD : "root"  
 		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/hrIcon.png)  DATABASE : "toDoList"  
 		
