@@ -1,4 +1,4 @@
-# Introduction to Reg./Login Form Application
+# Registration & Login Form Application
 
 ## About Author:-  
 
@@ -14,7 +14,7 @@
 3. LAMP/WAMP installed system.  
 4. Proper internet connectivity.  
 
-## Project Description:-
+## Project Description:-  
 
 -> This is a small web application built in HTML, CSS, Javascript, Ajax & PHP with complete validations.    
 -> It provides you Registration and Login form that can be usually seen at most of the websites for the purpose of sign in or sign up.  
@@ -22,28 +22,26 @@
 
 ## How to Use:-  
 
--> Firstly, create a Database named "formData" in PHP database(as shown in screenshot).
+-> Firstly, create a Database named "formData" in PHP database(as shown in screenshot).  
 	* about php database connection *  
 		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  HOSTNAME : "localhost"  
 		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  USERNAME : "root"  
 		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  PASSWORD : "root"
 		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  DATABASE : "formData"
   
- ![PHP Database](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-5.png)  
+ ![PHP Database](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-5.png)   
 
 -> Select the newly created database and create a table in it named "formInfo".  
 -> Download all the files, assets & save them in localhost folder.  
 -> Reach browser and type in URL "localhost/registrationForm.php" to make entries for a new user.  
-![Registration Form](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-1.png)
+![Registration Form](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-1.png)  
 -> Please make all the entries carefully  and pass all the validations otherwise form would not be submitted and error messages may be generated.  
-![Registration Form](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-2.png)  
+![Registration Form](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-2.png)   
 -> above step 4 will create a new user and store the entries in database.  
--> Then type in URL "localhost/loginForm.php" to log in using username & password.
+-> Then type in URL "localhost/loginForm.php" to log in using username & password.  
 ![Login Form](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-3.png)  
 ![login form](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-4.png)  
 -> And you will be logged in if username and password are correct.  
 
 Thank You So Much
 ---
-
-			/* Thank You So Much */
