@@ -1,13 +1,13 @@
 			      #Introduction to ToDo List Application
 
-##About Author:-
+###About Author:-
 
 Developer	-->   MLVTEC Team, Bhilwara
 Developed at 	-->   Ready Bytes Software Labs Pvt. Ltd. Bhilwara
 Under guidance	-->   Shyam Sunder Boss.
 Date Created	-->   Wed,May 30 2018.
 
-##All you need is:-
+#All you need is:-
 
 1. Basic knowledge of HTML, CSS,JS,Jquery,Ajax & PHP.
 2. Text editor like Notepad, Sublime Text etc. 
