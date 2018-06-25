@@ -24,18 +24,21 @@ Date Created	-->   Wed,May 30 2018.
 ## How to Use:-
 
 -> Firstly, create a Database named "toDoList" in PHP database(as shown in screenshots).  
-	<--about php database connection-->  
-		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/hrIcon.png)  HOSTNAME  :  "localhost"  
-		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/hrIcon.png)  USERNAME  :  "root"  
-		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/hrIcon.png)  PASSWORD  :  "root"  
-		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/hrIcon.png)  DATABASE  :  "toDoList"  
+	* about php database connection * 
+		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/hrIcon.png)  HOSTNAME : "localhost"  
+		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/hrIcon.png)  USERNAME : "root"  
+		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/hrIcon.png)  PASSWORD : "root"  
+		![Right Hand](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/hrIcon.png)  DATABASE : "toDoList"  
 		
 ![PHP Database](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-6.png)  
+
+
 
 -> Select the newly created database and create a table in it named "toDoTable".  
 -> Download all the files, assets & save them in localhost folder.  
 -> Reach browser and type in URL "localhost/toDoList.php".  
 -> Now, application is ready to use.  
+
 
 ![ToDo List](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-1.png)  
 
