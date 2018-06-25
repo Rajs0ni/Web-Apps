@@ -48,7 +48,8 @@ Date Created	-->   Wed,May 30 2018.
 
 -> To get detailed description of the existing task, click on "View" button and along with it you will find the "Edit Task" functionality.  
 
-![View Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-3.png)  
+![View Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-3.png)
+![Edit Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-3(1).png)
 
 -> To delete a particular existing task, click on "Trash" button.  
 -> To erase all the tasks, click on "CLEAR" button.  
