@@ -1,6 +1,6 @@
 			      #Introduction to ToDo List Application
 
-###About Author:-
+#About Author
 
 Developer	-->   MLVTEC Team, Bhilwara
 Developed at 	-->   Ready Bytes Software Labs Pvt. Ltd. Bhilwara
