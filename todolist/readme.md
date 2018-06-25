@@ -1,26 +1,26 @@
-			      #Introduction to ToDo List Application
+# Introduction to ToDo List Application
 
-#About Author
+## About Author
 
 Developer	-->   MLVTEC Team, Bhilwara
 Developed at 	-->   Ready Bytes Software Labs Pvt. Ltd. Bhilwara
 Under guidance	-->   Shyam Sunder Boss.
 Date Created	-->   Wed,May 30 2018.
 
-#All you need is:-
+## All you need is:-
 
 1. Basic knowledge of HTML, CSS,JS,Jquery,Ajax & PHP.
 2. Text editor like Notepad, Sublime Text etc. 
 3. LAMP/WAMP installed system.
 4. Proper internet connectivity.
 
-##Project Description:-
+## Project Description:-
 
 -> This is a small web application built in HTML, CSS, Jquery ,Javascript ,Ajax & PHP with complete validations.  
 -> It provides you the functionality of create, view ,delete, deleteAll,search(by title,task & date) & modify the task. 
 -> All the entries will be stored in PHP Database.
 
-##How to Use:-
+## How to Use:-
 
 -> Firstly, create a Database named "toDoList" in PHP database(as shown in screenshots).
 	<--about php database connection-->
@@ -28,6 +28,7 @@ Date Created	-->   Wed,May 30 2018.
 		~USERNAME:-"root"
 		~PASSWORD:-"root"
 		~DATABASE:-"toDoList"
+		
 ![PHP Database](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-6.png)
 
 -> Select the newly created database and create a table in it named "toDoTable".
@@ -48,4 +49,6 @@ Date Created	-->   Wed,May 30 2018.
 -> To get all tasks according to their status, click on "Menu" button and choose a category.
 ![Menu Bar](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-5.png)
 
-		/* Thank You So Much */
+===
+
+		Thank You So Much 
