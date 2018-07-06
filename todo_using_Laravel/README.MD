@@ -65,12 +65,14 @@ All the records will be stored at PHP database.The App can be maintained by edit
      * Go to the Homepage.  
      * Click on whatever task you want to delete.  
      * you would find delete button at bottom of the task, click on it.  
+     
   ![Delete Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-7.png)  
   
  * To __find a task__ .  
   * Go to the Homepage.  
   * Click on the menu button positioned at top left corner & find "SEARCH" button or you can click on "Quick Find" button at right-sidebar.  
   * You can search the task by it's title, completion date or creation date, just type any tag in search box & click on "Task Search" button.  
+  
  ![Search Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-5.png)  
  
  * To __delete all task__ .  
