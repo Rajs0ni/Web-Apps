@@ -4,10 +4,10 @@
   
 ## About Author
 
-Developer	-->   MLVTEC Team, Bhilwara  
-Developed at 	-->   Ready Bytes Software Labs Pvt. Ltd. Bhilwara  
-Under guidance	-->   Shyam Sunder Boss.  
-Date Created	-->   Sat,Jun 30 2018.  
+Developer	:point_right: MLVTEC Team, Bhilwara  
+Developed at :point_right: Ready Bytes Software Labs Pvt. Ltd. Bhilwara  
+Under guidance :point_right: Shyam Sunder Boss.  
+Date Created :point_right: Sat,Jun 30 2018.  
 
 ## Prerequisite:-
 
