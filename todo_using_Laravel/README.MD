@@ -77,7 +77,7 @@ All the records will be stored at PHP database.The App can be maintained by edit
  
  * To __delete all task__ .  
  	* Go to the Homepage.  
- 	* Click on "Quick Clear" button placed at right-sidebar.
+ 	* Click on "Quick Clear" button placed at right-sidebar.  
  
  
    Thank You So Much
