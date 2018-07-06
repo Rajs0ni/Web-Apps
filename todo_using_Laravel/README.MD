@@ -18,15 +18,15 @@ Date Created	-->   Sat,Jun 30 2018.
 ## Project Description:-
 
 __T__ odo App, a small web application built in Laravel, HTML, CSS  &amp; Jquery with complete validations, animations &
-     having the functionality as following:  
-   	  * To create a new task.  
-   	  * To get the detailed description of the task.  
-    	  * To delete the task.  
-     	  * To edit the task.  
-    	  * To search the task (by title & date).  
-     	  * To modify the task.  
-    	  * To sort the tasks (by title & date).  
-     	  * To view all the tasks in grid or list style.  
+     having the functionality as following:
+ * To create a new task.  
+ * To get the detailed description of the task.  
+ * To delete the task.  
+ * To edit the task.  
+ * To search the task (by title & date).  
+ * To modify the task.  
+ * To sort the tasks (by title & date).  
+ * To view all the tasks in grid or list style.  
      
 All the records will be stored at PHP database.The App can be maintained by editors, writers, reviewers or readers like you as a way to focus your collaborative efforts.
 
