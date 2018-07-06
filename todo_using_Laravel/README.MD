@@ -1,5 +1,5 @@
 
-# Introduction to ToDo List Application
+# Introduction to Todo App
   
   
 ## About Author
@@ -17,7 +17,7 @@ Date Created	-->   Sat,Jun 30 2018.
 
 ## Project Description:-
 
-__T__ odo App, a small web application built in Laravel, HTML, CSS  &amp; Jquery with complete validations, animations &
+**T**odo App, a small web application built in Laravel, HTML, CSS  &amp; Jquery with complete validations, animations &
      having the functionality as following:
  * To create a new task.  
  * To get the detailed description of the task.  
