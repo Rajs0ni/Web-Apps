@@ -58,39 +58,25 @@ All the records will be stored at PHP database.The App can be maintained by edit
  * To __edit a task__ .
     * Go to the Homepage.  
     * Click on whatever task you want to edit.  
-    * You would find edit button at bottom of the task, click on it.  
     * After modification, click on "UPDATE TASK" button. 
     
 ![Edit Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-7.png)  
  * To __delete a task__ .
- <ul>
-                <li>Go to the Homepage.</li>
-                <li>Click on whatever task you want to delete.</li>
-                <li>you would find delete button at bottom of the task, click on it.</li>
-            </ul>
-![ToDo List](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-1.png)  
-
--> To add new Task, click on "+" button.  
-
-![Add Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-2.png)  
-
--> To get detailed description of the existing task, click on "View" button and along with it you will find the "Edit Task" functionality.  
-
-![View Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-3.png)
-![Edit Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-3(1).png)
-
--> To delete a particular existing task, click on "Trash" button.  
--> To erase all the tasks, click on "CLEAR" button.  
+     * Go to the Homepage.  
+     * Click on whatever task you want to delete.  
+     * you would find delete button at bottom of the task, click on it.  
+  ![Delete Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-7.png) 
+  
+ * To __find a task__ .  
+  * Go to the Homepage.
+* Click on the menu button positioned at top left corner & find "SEARCH" button or you can click on "Quick Find" button at right sidebar.
+* You can search the task by it's title, completion date or creation date, just type any tag in search box & click on "Task Search" button.
+ ![Search Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-5.png) 
  
-![Delete Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-1.png)  
-
--> To search a specific task, type in "Search" box and you can find it by title, task or date.  
-
-![Search Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-7.png)  
-
--> To get all tasks according to their status, click on "Menu" button and choose a category.  
-
-![Menu Bar](https://github.com/Rajs0ni/Web-Apps/blob/master/todolist/Screenshot-5.png)  
-
+ * To __delete all task__ .
+ 	* Go to the Homepage.  
+ 	* Click on Quick Clear at sidebar.
+ 
+ 
    Thank You So Much
    ---
