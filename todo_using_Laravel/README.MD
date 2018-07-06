@@ -41,14 +41,12 @@ All the records will be stored at PHP database.The App can be maintained by edit
 
 ![Todo Homepage](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-2.png)  
 
-<details>
-<summary>To create a new task.</summary>  
-* Click on the menu button positioned at top left cornerc &amp; find "CREATE" button or you can click on "Quick Add" button at right sidebar.  
-* Give a Title to the task.  
-* Feed the description of the task in Task input field.   
-* Assign a completion date to the task.  
-* Click on "ADD TASK" button.  
-</details>  
+* To __create a new task__.
+    * Click on the menu button positioned at top left cornerc &amp; find "CREATE" button or you can click on "Quick Add" button at right sidebar.  
+    * Give a Title to the task.  
+    * Feed the description of the task in Task input field.   
+    * Assign a completion date to the task.  
+    * Click on "ADD TASK" button.  
        
  ![Create Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-3.png)  
  
