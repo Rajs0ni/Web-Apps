@@ -36,10 +36,11 @@ All the records will be stored at PHP database.The App can be maintained by edit
              where the app folder is placed and trigger the command "$ php artisan serve" to start the local server.  
 * Now,reach any browser and type in URL "/todo" following with your local server name (e.g. localhost/todo).  
 * Homepage of the app would be displayed as below shown.  
-		
+<details>
+  <summary>View image</summary>
 ![Todo Homepage](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-1.png)  
-
 ![Todo Homepage](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-2.png)  
+ </details>		
 
 * To __create a new task__ .  
    * Click on the menu button positioned at top left cornerc &amp; find "CREATE" button or you can click on "Quick Add" button at right sidebar.  
