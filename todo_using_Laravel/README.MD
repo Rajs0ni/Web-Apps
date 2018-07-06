@@ -42,24 +42,24 @@ All the records will be stored at PHP database.The App can be maintained by edit
 ![Todo Homepage](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-2.png)  
 
 * To __create a new task__ .  
-  * Click on the menu button positioned at top left cornerc &amp; find "CREATE" button or you can click on "Quick Add" button at right sidebar.  
-  * Give a Title to the task.  
-  * Feed the description of the task in Task input field.  
-  * Assign a completion date to the task.  
-  * Click on "ADD TASK" button.  
+   * Click on the menu button positioned at top left cornerc &amp; find "CREATE" button or you can click on "Quick Add" button at right sidebar.  
+   * Give a Title to the task.  
+   * Feed the description of the task in Task input field.  
+   * Assign a completion date to the task.  
+   * Click on "ADD TASK" button.  
        
  ![Create Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-3.png)  
  
 * To __view a task__ .  
-   * Go to the Homepage.  
-   * Click on whatever task you want to know about.  
+    * Go to the Homepage.  
+    * Click on whatever task you want to know about.  
   
   ![View Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-6.png)  
  
  * To __edit a task__ .  
-    * Go to the Homepage.  
-    * Click on whatever task you want to edit.  
-    * After modification, click on "UPDATE TASK" button.  
+     * Go to the Homepage.  
+     * Click on whatever task you want to edit.  
+     * After modification, click on "UPDATE TASK" button.  
     
 ![Edit Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-7.png)  
  * To __delete a task__ .  
@@ -72,13 +72,13 @@ All the records will be stored at PHP database.The App can be maintained by edit
  * To __find a task__ .  
     * Go to the Homepage.  
     * Click on the menu button positioned at top left corner & find "SEARCH" button or you can click on "Quick Find" button at right-sidebar.  
-  * You can search the task by it's title, completion date or creation date, just type any tag in search box & click on "Task Search" button.  
+    * You can search the task by it's title, completion date or creation date, just type any tag in search box & click on "Task Search" button.  
   
  ![Search Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-5.png)  
  
  * To __delete all task__ .  
-    * Go to the Homepage.  
-    * Click on "Quick Clear" button placed at right-sidebar.  
+     * Go to the Homepage.  
+     * Click on "Quick Clear" button placed at right-sidebar.  
  
  
    Thank You So Much
