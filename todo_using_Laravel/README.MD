@@ -62,7 +62,7 @@ All the records will be stored at PHP database.The App can be maintained by edit
      * After modification, click on "UPDATE TASK" button.  
     
 ![Edit Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-7.png)  
- * To __delete a task__ .  
+* To __delete a task__ .  :x:
      * Go to the Homepage.  
      * Click on whatever task you want to delete.  
      * you would find delete button at bottom of the task, click on it.  
