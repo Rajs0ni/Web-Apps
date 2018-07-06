@@ -81,5 +81,5 @@ All the records will be stored at PHP database.The App can be maintained by edit
      * Click on "Quick Clear" button placed at right-sidebar.  
  
  
- :simple_smile:  Thank You So Much  :simple_smile:
-   ---
+:simple_smile:  Thank You So Much  :simple_smile:
+
