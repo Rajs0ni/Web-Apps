@@ -38,8 +38,6 @@ All the records will be stored at PHP database.The App can be maintained by edit
 * Homepage of the app would be displayed as below shown.  
 		
 ![Todo Homepage](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-1.png)  
-
-* On selecting particular task.  
 ![Todo Homepage](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/Screenshot-2.png)  
 
 * To __create a new task__ .
