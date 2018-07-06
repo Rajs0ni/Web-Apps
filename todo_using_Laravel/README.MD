@@ -68,7 +68,7 @@ All the records will be stored at PHP database.The App can be maintained by edit
      * Click on whatever task you want to delete.  
      * you would find delete button at bottom of the task, click on it.  
      
-  ![Delete Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/homepage.png)  
+  ![Delete Task](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/viewTask.png)  
   
  * To __find a task__ .  :mag_right:
     * Go to the Homepage.  
@@ -81,6 +81,19 @@ All the records will be stored at PHP database.The App can be maintained by edit
      * Go to the Homepage.  
      * Click on "Quick Clear" button placed at right-sidebar.  
  
+ #### Some more  
+ 
+ * Navbar on clicking menu button.
+ 
+ ![Navbar](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/menubutton.png)  
+ 
+ * Grid view of tasks.  
+ 
+ ![Grid View](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/gridview.png)  
+ 
+ * Do you need help, see Help Desk.  
+ 
+  ![Help Desk](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/helpdesk.png)  
  
   Thank You So Much  
   ---
