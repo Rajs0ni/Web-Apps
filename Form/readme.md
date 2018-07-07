@@ -29,7 +29,7 @@ Date Create :point_right: Fri, May 18 2018.
 		* PASSWORD : "root"  
 		* DATABASE : "formData"  
   
- ![PHP Database](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-5.png)   
+ ![PHP Database](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/screenshots/database.png)   
 
 * Select the newly created database and create a table in it named "formInfo".  
 * Download all the files, assets & save them in localhost folder.  
