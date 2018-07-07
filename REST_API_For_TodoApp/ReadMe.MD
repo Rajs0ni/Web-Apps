@@ -22,7 +22,13 @@ Date Create :point_right: Sat, Jun 30 2018.
 ## How to Use:-  
 
 * To **read all the records**, reach any browser and type in URL "**localhost/REST_API_For_TodoApp/api/task/read.php**".  
-* To **read a particular record**, type in URL "**localhost/REST_API_For_TodoApp/api/task/read_single.php?id = id_of_record**".  
+
+![Read All](https://github.com/Rajs0ni/Web-Apps/blob/master/REST_API_For_TodoApp/screenshots/readall.png).  
+
+* To **read a particular record**, type in URL "**localhost/REST_API_For_TodoApp/api/task/read_single.php?id =  id_of_record**".   
+
+![Read Single](https://github.com/Rajs0ni/Web-Apps/blob/master/REST_API_For_TodoApp/screenshots/readsingle.png).  
+
 * To **update a record**, type in URL "**localhost/REST_API_For_TodoApp/api/task/update.php**" and also send raw JSON formatted data to be updated with URL.  
 * To **create new record**, use "**localhost/REST_API_For_TodoApp/api/task/create.php**" also send raw JSON formatted data to be inserted with URL.  
 * To **delete a particular record**, use "**localhost/REST_API_For_TodoApp/api/task/delete.php**" and send id of the record in JSON format.
