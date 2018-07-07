@@ -2,10 +2,10 @@
 
 ## About Author:-  
 
-Developer	-->   MLVTEC Team, Bhilwara  
-Developed at 	-->   Ready Bytes Software Labs Pvt. Ltd. Bhilwara  
-Under guidance	-->   Shyam Sunder Boss.  
-Date Created	-->   Fri, May 18 2018.  
+Developer :point_right: MLVTEC Team, Bhilwara  
+Developed at :point_right: Ready Bytes Software Labs Pvt. Ltd. Bhilwara  
+Under guidance :point_right: Shyam Sunder Boss.  
+Date Create :point_right: Fri, May 18 2018.  
 
 ## All you need is:-  
 
@@ -16,32 +16,32 @@ Date Created	-->   Fri, May 18 2018.
 
 ## Project Description:-  
 
--> This is a small web application built in HTML, CSS, Javascript, Ajax & PHP with complete validations.    
--> It provides you Registration and Login form that can be usually seen at most of the websites for the purpose of sign in or sign up.  
--> All the entries will be stored in PHP Database.  
+* This is a small web application built in HTML, CSS, Javascript, Ajax & PHP with complete validations.    
+* It provides you Registration and Login form that can be usually seen at most of the websites for the purpose of sign in or sign up.  
+* All the entries will be stored in PHP Database.  
 
 ## How to Use:-  
 
--> Firstly, create a Database named "formData" in PHP database(as shown in screenshot).  
-	* about php database connection *  
-		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  HOSTNAME : "localhost"  
-		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  USERNAME : "root"  
-		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  PASSWORD : "root"  
-		![Hand Right Icon](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/hrIcon.png)  DATABASE : "formData"  
+* Firstly, create a Database named "formData" in PHP database(as shown in screenshot).  
+	* about php database connection  
+		* HOSTNAME : "localhost"  
+		* USERNAME : "root"  
+		* PASSWORD : "root"  
+		* DATABASE : "formData"  
   
  ![PHP Database](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-5.png)   
 
--> Select the newly created database and create a table in it named "formInfo".  
--> Download all the files, assets & save them in localhost folder.  
--> Reach browser and type in URL "localhost/registrationForm.php" to make entries for a new user.  
+* Select the newly created database and create a table in it named "formInfo".  
+* Download all the files, assets & save them in localhost folder.  
+* Reach browser and type in URL "localhost/registrationForm.php" to make entries for a new user.  
 ![Registration Form](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-1.png)  
--> Please make all the entries carefully  and pass all the validations otherwise form would not be submitted and error messages may be generated.  
+* Please make all the entries carefully  and pass all the validations otherwise form would not be submitted and error messages may be generated.  
 ![Registration Form](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-2.png)   
--> above step 4 will create a new user and store the entries in database.  
--> Then type in URL "localhost/loginForm.php" to log in using username & password.  
+* Above step 4 will create a new user and store the entries in database.  
+* Then type in URL "localhost/loginForm.php" to log in using username & password.  
 ![Login Form](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-3.png)  
 ![login form](https://github.com/Rajs0ni/Web-Apps/blob/master/Form/Screenshot-4.png)  
--> And you will be logged in if username and password are correct.  
+* And you will be logged in if username and password are correct.  
 
 Thank You So Much
 ---
