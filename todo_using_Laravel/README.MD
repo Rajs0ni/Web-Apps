@@ -35,7 +35,7 @@ All the records will be stored at PHP database.The App can be maintained by edit
 * Since, app is built in Laravel. Before its use, open terminal and access the directory 
              where the app folder is placed and trigger the command "$ php artisan serve" to start the local server.  
 * Now,reach any browser and type in URL "/todo" following with your local server name (e.g. localhost/todo).  
-* Homepage of the app would be displayed as below shown.  
+* Homepage of the app would be displayed as shown below.  
 
 ![Todo Homepage](https://github.com/Rajs0ni/Web-Apps/blob/master/todo_using_Laravel/screenshots/homepage.png)  
 
